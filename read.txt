@@ -5,4 +5,4 @@ double stupid
 liu
 liuliu
 liu1
-remote2 dev
+remote2 and remote1 conflict fixed dev
